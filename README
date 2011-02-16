@@ -72,5 +72,5 @@ controller isn't served from /fixture then you'll need to update more URLs in ac
 
 4. Add the jbehave dependency from grails-app/conf/BuildConfig.groovy
 
-5. Start adding your own tests to suite.html, using the bundled examples for reference.
+5. Start adding your own tests to suite.html and adding mappings beneath js/naturalLanguageExtensions/mapping using the bundled examples for reference.
 	
