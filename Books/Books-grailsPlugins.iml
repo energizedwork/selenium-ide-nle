@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="web" name="GrailsWeb">
+      <configuration>
+        <webroots>
+          <root url="file://$USER_HOME_GRAILS$/1.3.4/projects/Books/plugins/attachmentable-0.1.1-SNAPSHOT/web-app" relative="/" />
+          <root url="file://$USER_HOME_GRAILS$/1.3.4/projects/Books/plugins/cache-headers-1.1.3/web-app" relative="/" />
+        </webroots>
+        <sourceRoots />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$USER_HOME_GRAILS$/1.3.4/projects/Books/plugins/cache-headers-1.1.3">
+      <sourceFolder url="file://$USER_HOME_GRAILS$/1.3.4/projects/Books/plugins/cache-headers-1.1.3/grails-app/services" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME_GRAILS$/1.3.4/projects/Books/plugins/hibernate-1.3.4" />
+    <content url="file://$USER_HOME_GRAILS$/1.3.4/projects/Books/plugins/jawr-3.3.3">
+      <sourceFolder url="file://$USER_HOME_GRAILS$/1.3.4/projects/Books/plugins/jawr-3.3.3/grails-app/controllers" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME_GRAILS$/1.3.4/projects/Books/plugins/jawr-3.3.3/grails-app/taglib" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME_GRAILS$/1.3.4/projects/Books/plugins/jetty-1.2-SNAPSHOT">
+      <sourceFolder url="file://$USER_HOME_GRAILS$/1.3.4/projects/Books/plugins/jetty-1.2-SNAPSHOT/src/groovy" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME_GRAILS$/1.3.4/projects/Books/plugins/joda-time-1.1">
+      <sourceFolder url="file://$USER_HOME_GRAILS$/1.3.4/projects/Books/plugins/joda-time-1.1/src/java" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME_GRAILS$/1.3.4/projects/Books/plugins/joda-time-1.1/src/groovy" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME_GRAILS$/1.3.4/projects/Books/plugins/joda-time-1.1/grails-app/taglib" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME_GRAILS$/1.3.4/projects/Books/plugins/liquibase-1.9.3.5">
+      <sourceFolder url="file://$USER_HOME_GRAILS$/1.3.4/projects/Books/plugins/liquibase-1.9.3.5/src/java" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME_GRAILS$/1.3.4/projects/Books/plugins/liquibase-1.9.3.5/src/groovy" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME_GRAILS$/1.3.4/projects/Books/plugins/spock-0.5-groovy-1.7">
+      <sourceFolder url="file://$USER_HOME_GRAILS$/1.3.4/projects/Books/plugins/spock-0.5-groovy-1.7/src/java" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library name="Grails User Library">
+        <CLASSES>
+          <root url="file://$USER_HOME_GRAILS$/1.3.4/projects/Books/plugins/joda-time-1.1/lib" />
+          <root url="file://$USER_HOME_GRAILS$/1.3.4/projects/Books/plugins/liquibase-1.9.3.5/lib" />
+          <root url="jar://$MODULE_DIR$/../../../../.ivy2/cache/org.objenesis/objenesis/jars/objenesis-1.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.ivy2/cache/org.spockframework/spock-grails-support/jars/spock-grails-support-0.5-groovy-1.7.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.ivy2/cache/org.hamcrest/hamcrest-core/jars/hamcrest-core-1.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.ivy2/cache/junit/junit-dep/jars/junit-dep-4.8.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.ivy2/cache/org.spockframework/spock-core/jars/spock-core-0.5-groovy-1.7.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.ivy2/cache/org.apache.geronimo.specs/geronimo-stax-api_1.0_spec/jars/geronimo-stax-api_1.0_spec-1.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.ivy2/cache/stax/stax-api/jars/stax-api-1.0.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.ivy2/cache/org.apache.xmlbeans/xmlbeans/jars/xmlbeans-2.3.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.ivy2/cache/org.apache.poi/poi-ooxml-schemas/jars/poi-ooxml-schemas-3.7.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.ivy2/cache/org.apache.poi/poi-ooxml/jars/poi-ooxml-3.7.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.ivy2/cache/org.apache.poi/poi-scratchpad/jars/poi-scratchpad-3.7.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.ivy2/cache/org.apache.poi/poi/jars/poi-3.7.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.ivy2/cache/org.hamcrest/hamcrest-all/jars/hamcrest-all-1.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.ivy2/cache/org.freemarker/freemarker/jars/freemarker-2.3.16.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.ivy2/cache/org.codehaus.plexus/plexus-utils/jars/plexus-utils-2.0.5.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.ivy2/cache/commons-lang/commons-lang/jars/commons-lang-2.5.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.ivy2/cache/org.jbehave/jbehave-core/jars/jbehave-core-3.1.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.ivy2/cache/geronimo-spec/geronimo-spec-jta/jars/geronimo-spec-jta-1.0.1B-rc4.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.ivy2/cache/org.mortbay.jetty/jetty-plus/jars/jetty-plus-6.1.21.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.ivy2/cache/org.mortbay.jetty/servlet-api/jars/servlet-api-2.5-20081211.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.ivy2/cache/org.mortbay.jetty/jetty-util/jars/jetty-util-6.1.21.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.ivy2/cache/org.mortbay.jetty/jetty/jars/jetty-6.1.21.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.ivy2/cache/tomcat/jasper-runtime/jars/jasper-runtime-5.5.15.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.ivy2/cache/org.mortbay.jetty/jsp-api-2.0/jars/jsp-api-2.0-6.1.21.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.ivy2/cache/tomcat/jasper-compiler/jars/jasper-compiler-5.5.15.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.ivy2/cache/org.eclipse.jdt/core/jars/core-3.1.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.ivy2/cache/tomcat/jasper-compiler-jdt/jars/jasper-compiler-jdt-5.5.15.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.ivy2/cache/javax.mail/mail/jars/mail-1.4.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.ivy2/cache/org.mortbay.jetty/jetty-naming/jars/jetty-naming-6.1.21.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.ivy2/cache/net.jawr/jawr/jars/jawr-3.3.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$USER_HOME_GRAILS$/1.3.4/projects/Books/plugins/joda-time-1.1/lib" recursive="false" />
+        <jarDirectory url="file://$USER_HOME_GRAILS$/1.3.4/projects/Books/plugins/liquibase-1.9.3.5/lib" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" scope="PROVIDED" name="Grails 1.3.4" level="project" />
+  </component>
+</module>
+

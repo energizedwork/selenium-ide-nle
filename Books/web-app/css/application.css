@@ -1,0 +1,301 @@
+#dynamic-content-below-here {
+    display: none;
+}
+
+.readonly {
+    background-color: silver;
+}
+
+.ui-widget {
+    font-size: 0.8em;
+}
+
+.dialog input, .dialog select {
+    width: 13.5em;
+}
+
+.dialog input.vat {
+    width: 8em;
+}
+
+.dialog select.vatRate {
+    margin-left: 0.5em;
+    width: 5.1em;
+}
+
+.dialog th {
+    text-align: left;
+}
+
+#taxYearPickerContainer {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0.5em;
+    font-family: arial, sans-serif;
+}
+
+#vatReturnsForm input {
+    width: 6em;
+}
+
+#vatReturnsForm table {
+    margin-top: 1em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1em;
+}
+
+#vatReturnsForm table.period input {
+    margin-right: 1em;
+}
+
+#vatReturnsForm table.financials {
+    font-size: 0.8em;
+}
+
+#vatReturnsForm table.financials th {
+    border: 0.3em solid #eeffee;
+}
+
+#vatReturnsForm table.financials td {
+    border: 0.3em solid #eeffee;
+}
+
+#vatReturnsForm table.financials th .wrapper {
+    background-color: white;
+    border: 1px solid green;
+    color: green;
+    font-weight: normal;
+    width: 35em;
+}
+
+#vatReturnsForm table.financials th .number {
+    background-color: green;
+    color: white;
+    display:inline-block;
+    float: right;
+    font-weight: bold;
+    height: 3.4em;
+    line-height: 3.4em;
+    text-align: center;
+    width: 2em;
+}
+
+#vatReturnsForm table.financials th .text {
+    display:inline-block;
+    height: 3em;
+    width: 32em;
+    padding: 0.2em;
+}
+
+#vatReturnsForm table.financials td {
+    background-color: white;
+    font-size: 1.4em;
+    padding: 0.2em;
+    text-align: right;
+    width: 8em;
+}
+
+#vatReturnsForm table.financials #vatNet-row th {
+    border-bottom-width: 3.7em;
+}
+
+#vatReturnsForm table.financials #vatNet-row td {
+    border-bottom-width: 2.7em;
+}
+
+#vatReturnsForm table.financials #vatNet-row th .wrapper {
+    background-color: green;
+    color: white;
+}
+
+.selectable {
+    cursor: pointer;
+}
+
+table.list-data th {
+    padding-left: 1em;
+    padding-right: 1em;    
+}
+
+table.list-data th.date {
+    width: 4em;
+}
+table.list-data th.ddmmyyyy {
+    width: 4.5em;
+}
+table.list-data th.dateTime {
+    width: 10em;
+}
+table.list-data th.url {
+    width: 32em;
+}
+table.list-data th.reference {
+    width: 6em;
+}
+table.list-data th.narrative {
+    width: 34em;
+}
+table.list-data th.category {
+    width: 10em;
+}
+table.list-data th.currency {
+    width: 5em;
+}
+table.list-data th.vatReclaimed {
+    width: 8em;
+}
+table.list-data th.
+table.list-data th.icon {
+    width: 1.5em;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+table.list-data td.currency {
+    text-align: right;
+}
+table.list-data td.icon {
+    text-align: center;
+}
+
+table.list-data {
+    font-family: sans-serif;
+    margin: 1em;
+}
+
+table.list-data tr.heading th {    
+    border-bottom: 1px solid #ccc;
+}
+
+
+table.list-data a {
+    text-decoration: none;
+    color: blue;
+}
+table.list-data a:hover {
+    text-decoration: underline;
+}
+
+table.list-data tr.upload td {
+    border-bottom: 1px solid #ccc;
+}
+
+table.list-data tr.upload:last-child td {
+    border-bottom: none;    
+}
+
+table.list-data tr.upload td.control {
+    border-top: 1px solid #ccc;    
+}
+
+
+table.list-data th {
+    border-top: 1px solid #ccc;
+    border-left: 1px solid #ccc;
+}
+
+table.list-data th:last-child {
+    border-right: 1px solid #ccc;
+}
+
+table.list-data td {
+    vertical-align: top;
+    font-size: 0.9em;
+    height: 1em;
+}
+
+table.list-data tbody.data tr:first-child td {
+    border-top: 1px solid #ccc;    
+}
+
+table.list-data tbody.data td {
+    border-left: 1px solid #ccc;
+    padding: 0.2em 0.5em;
+}
+
+table.list-data tbody.data td:last-child {
+    border-right: 1px solid #ccc;    
+}
+
+table.list-data tbody.controls td {
+    border-top: 1px solid #ccc;
+    padding-top: 0.5em;
+    text-align: right;
+}
+
+tr.selectable:hover td {
+    background-color: #ccc;
+}
+
+/* MESSAGES AND ERRORS */
+
+.message {
+    background: #f3f8fc url(../images/skin/information.png) 8px 50% no-repeat;
+    border: 1px solid #b2d1ff;
+    color: #006dba;
+    margin: 10px 0 5px 0;
+    padding: 5px 5px 5px 30px
+}
+
+div.errors {
+    background: #fff3f3;
+    border: 1px solid red;
+    color: #cc0000;
+    margin: 1em 0;
+    padding: 0;
+}
+div.errors ul {
+    list-style: none;
+    padding: 0;
+}
+div.errors li {
+	background: url(../images/skin/exclamation.png) 8px 0% no-repeat;
+    line-height: 16px;
+    padding-left: 30px;
+}
+
+td.errors select {
+    border: 1px solid red;
+}
+td.errors input {
+    border: 1px solid red;
+}
+
+div.fileInputs {
+	position: relative;
+    display:inline-block;
+    font-size:0.8em;
+    margin-bottom: 1em;    
+    width: 100%;
+}
+
+div.fakeFileWrapper {
+	position: absolute;
+	top: 0px;
+	right: 0px;
+}
+
+div.fakeFileWrapper .fakeFile  {
+    width: 18em;
+   	z-index: 1; 
+}
+
+div.fakeFileWrapper .fakeButton {
+	z-index: 3;
+    position: relative;
+    width: 6em;
+    padding-left: 1em;
+}
+
+div.fileInputs input.file {
+	position: absolute;
+	text-align: right;
+	-moz-opacity:0 ;
+	filter:alpha(opacity: 0);
+	opacity: 0;
+    width: 18em;
+	z-index: 2;
+    right: 4px;
+    margin-right:6em;
+}

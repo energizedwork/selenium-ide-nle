@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head profile="http://selenium-ide.openqa.org/profiles/test-case">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="selenium.base" href="" />
+<title>Create an invoice</title>
+</head>
+<body>
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">Create an invoice</td></tr>
+</thead><tbody>
+<tr>
+	<td>setupAndWait</td>
+	<td></td>
+	<td></td>
+</tr>
+<tr>
+	<td>load</td>
+	<td>locator-mappings</td>
+	<td></td>
+</tr>
+<tr>
+	<td>open</td>
+	<td>the home page</td>
+	<td></td>
+</tr>
+<tr>
+	<td>assertText</td>
+	<td>the Invoices tab</td>
+	<td>&lt;tabs.invoices&gt;</td>
+</tr>
+<tr>
+	<td>assertText</td>
+	<td>the 2nd column in the invoices table</td>
+	<td>&lt;invoice.settled&gt;</td>
+</tr>
+<tr>
+	<td>select</td>
+	<td>the tax year selector</td>
+	<td>&lt;taxYearPicker.display&gt; with [01-Mar-09,28-Feb-10]</td>
+</tr>
+</tbody></table>
+</body>
+</html>
