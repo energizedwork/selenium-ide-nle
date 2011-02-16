@@ -67,7 +67,8 @@ be sure to update test/selenium/selenese/core/scripts/extensions/actions.js acco
 	grails-app/views/fixture/index.gsp
 	src/groovy/uk/co/acuminous/books/jbehave/**
 	
-You'll need to remove all references to the "Books" domain objects from FixtureController and TestFixtures
+You'll need to remove all references to the "Books" domain objects from FixtureController and TestFixtures. If the fixture 
+controller isn't served from /fixture then you'll need to update more URLs in actions.js
 
 4. Add the jbehave dependency from grails-app/conf/BuildConfig.groovy
 
