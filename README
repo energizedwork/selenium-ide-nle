@@ -1,0 +1,75 @@
+Natural Language Extensions adds behavioural driven development support to Selenium IDE, meaning 
+tests can look less like
+
+	open /fixture/setup
+	assertTextPresent OK
+	open /fixture/setupInvoice?reference=BSkyB-1&net=10000.00&vat=0.15&raised=03-Mar-09&settled=05-Mar-09
+	storeText id invoiceId
+	open /
+	waitForElementPresent taxYearPicker
+	select taxYearPicker 01-Mar-09 to 28-Feb-10
+	waitForElementPresent invoicesTable
+	waitForXpathCount //table[@id='invoicesTable']/tbody[@class='data']/tr[@class='selectable'] 1
+	assertText //table[@id='invoicesTable']/tbody[@class='data']/tr[1]/td[1] 03-Mar-09
+	assertText //table[@id='invoicesTable']/tbody[@class='data']/tr[1]/td[2] 05-Mar-09
+	assertText //table[@id='invoicesTable']/tbody[@class='data']/tr[1]/td[3] BSkyB-1
+	assertText //table[@id='invoicesTable']/tbody[@class='data']/tr[1]/td[4] £10,000.00
+	assertText //table[@id='invoicesTable']/tbody[@class='data']/tr[1]/td[5] £1,500.00
+	assertText //table[@id='invoicesTable']/tbody[@class='data']/tr[1]/td[6] £11,500.00
+	click delete-${invoiceId}
+	assertConfirmation Do you really want to delete invoice 'BSkyB-1'?
+
+and more like
+
+	initialise
+	load common-mappings, invoice-mappings
+	given an invoice DB-1 for £10,000.00 @ 15% that was raised on 05-Mar-09 and settled on 12-Mar-09
+	when I open the home page
+	and change the tax year to "01-Mar-09 to 28-Feb-10"
+	then there should be 1 invoice in the invoices table
+	and the 1st invoice should have a raised date of 05-Mar-09
+	and a settled date of 12-Mar-09
+	and a reference of DB-1
+
+Getting Started
+---------------
+1. Download the Selenium IDE plugin for firefox and add in the following user extensions via the 
+options menu
+
+	test/selenium/selenese/core/scripts/extensions/actions.js
+	test/selenium/selenese/core/scripts/extensions/uils.js
+
+2. Open the following test suite
+
+	test/selenium/suite.html
+
+3. Launch the "Books" application from the shell
+
+	grails run-app
+
+The tests should all pass, and demonstrate what you can do with the natural language extensions.
+
+
+Installation
+------------
+Unfortunately installation isn't straight forward - it's a case of copying the relevant files from 
+"Books" to your project, fixing the compilation errors and URLs.
+
+1. Copy the entire test/selenium folder to your project. 
+	
+2. Copy the entire web-app/js/naturalLangaugeExtensions. This must be served by your application, 
+ideally on http://yourserver/js/naturalLanguageExtensions. If you can't serve from this URL then 
+be sure to update test/selenium/selenese/core/scripts/extensions/actions.js accordingly
+
+3. Copy 
+
+	grails-app/controllers/uk/co/acuminous/test/FixtureController.groovy
+	grails-app/views/fixture/index.gsp
+	src/groovy/uk/co/acuminous/books/jbehave/**
+	
+You'll need to remove all references to the "Books" domain objects from FixtureController and TestFixtures
+
+4. Add the jbehave dependency from grails-app/conf/BuildConfig.groovy
+
+5. Start adding your own tests to suite.html, using the bundled examples for reference.
+	
