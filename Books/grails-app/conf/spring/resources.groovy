@@ -1,10 +1,7 @@
 import uk.co.acuminous.books.editor.CustomEditorRegistrar
 import uk.co.acuminous.attachment.FilePersistenceManager
-import liquibase.spring.SpringLiquibase
-import grails.util.GrailsUtil
 import com.mchange.v2.c3p0.ComboPooledDataSource
 import org.codehaus.groovy.grails.commons.ConfigurationHolder
-import uk.co.acuminous.util.LiquibaseDropAll
 
 beans = {
 

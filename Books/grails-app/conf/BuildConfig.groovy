@@ -42,6 +42,7 @@ grails.project.dependency.resolution = {
         compile 'org.apache.poi:poi-scratchpad:3.7'
         compile 'org.apache.poi:poi-ooxml:3.7'
         compile 'org.jbehave:jbehave-core:3.1.2'
+        compile 'c3p0:c3p0:0.9.1'
     }
 
 }
