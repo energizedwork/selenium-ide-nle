@@ -60,109 +60,109 @@
   <component name="FileColors" enabled="true" enabledForTabs="true" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Amount.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/domain/uk/co/acuminous/books/Amount.groovy">
+      <file leaf-file-name="TestUtils.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/groovy/uk/co/acuminous/test/TestUtils.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="3" selection-start="605" selection-end="605" vertical-scroll-proportion="-3.5">
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Expense.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/domain/uk/co/acuminous/books/Expense.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="3" selection-start="605" selection-end="605" vertical-scroll-proportion="-3.5">
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Invoice.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/domain/uk/co/acuminous/books/Invoice.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="3" selection-start="605" selection-end="605" vertical-scroll-proportion="-3.5">
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TaxYear.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/domain/uk/co/acuminous/books/TaxYear.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="3" selection-start="605" selection-end="605" vertical-scroll-proportion="-3.5">
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="VatRate.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/domain/uk/co/acuminous/books/VatRate.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="3" selection-start="605" selection-end="605" vertical-scroll-proportion="-3.5">
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="VatReturn.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/domain/uk/co/acuminous/books/VatReturn.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="3" selection-start="605" selection-end="605" vertical-scroll-proportion="-3.5">
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BooksService.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/services/uk/co/acuminous/books/BooksService.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="3" selection-start="605" selection-end="605" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="1" column="18" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0">
+              <folding>
+                <marker date="1299794839000" expanded="true" signature="0:596" placeholder="/*...*/" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BooksUiTagLib.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/taglib/uk/co/acuminous/books/BooksUiTagLib.groovy">
+      <file leaf-file-name="Normalizer.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/groovy/uk/co/acuminous/util/Normalizer.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="3" selection-start="605" selection-end="605" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="1" column="18" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0">
+              <folding>
+                <marker date="1299794839000" expanded="true" signature="0:596" placeholder="/*...*/" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MetaAttachmentsTagLib.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/taglib/uk/co/acuminous/books/MetaAttachmentsTagLib.groovy">
+      <file leaf-file-name="application.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web-app/js/application/application.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="3" selection-start="605" selection-end="605" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="1" column="18" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0">
+              <folding>
+                <marker date="1299794839000" expanded="true" signature="0:596" placeholder="/*...*/" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TaxYearPickerTagLib.groovy" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/grails-app/taglib/uk/co/acuminous/books/TaxYearPickerTagLib.groovy">
+      <file leaf-file-name="jquery-crud-0.1.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web-app/js/application/jquery-crud-0.1.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="3" selection-start="605" selection-end="605" vertical-scroll-proportion="0.36681223">
+            <state line="1" column="18" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0">
+              <folding>
+                <marker date="1299794839000" expanded="true" signature="0:596" placeholder="/*...*/" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jquery-vat-0.1.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web-app/js/application/jquery-vat-0.1.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="18" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0">
+              <folding>
+                <marker date="1299794839000" expanded="true" signature="0:596" placeholder="/*...*/" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="concise-mappings.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web-app/js/naturalLanguageExtensions/mapping/concise-mappings.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="18" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0">
+              <folding>
+                <marker date="1299794839000" expanded="true" signature="0:596" placeholder="/*...*/" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="english-mappings.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web-app/js/naturalLanguageExtensions/mapping/english-mappings.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="18" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0">
+              <folding>
+                <marker date="1299794839000" expanded="true" signature="0:596" placeholder="/*...*/" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="inline-mappings.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web-app/js/naturalLanguageExtensions/mapping/inline-mappings.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="18" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0">
+              <folding>
+                <marker date="1299794839000" expanded="true" signature="0:596" placeholder="/*...*/" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="locator-mappings.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web-app/js/naturalLanguageExtensions/mapping/locator-mappings.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="18" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0">
+              <folding>
+                <marker date="1299794839000" expanded="true" signature="0:596" placeholder="/*...*/" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="natural-language-extensions.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web-app/js/naturalLanguageExtensions/natural-language-extensions.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="18" selection-start="21" selection-end="21" vertical-scroll-proportion="0.028368793">
               <folding />
             </state>
           </provider>
@@ -182,22 +182,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/grails-app/controllers/uk/co/acuminous/books/InvoiceController.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/controllers/uk/co/acuminous/books/TaxYearController.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/controllers/uk/co/acuminous/books/VatRateController.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/controllers/uk/co/acuminous/books/VatReturnController.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/controllers/uk/co/acuminous/test/FixtureController.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/domain/uk/co/acuminous/attachment/MetaAttachment.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/domain/uk/co/acuminous/books/Amount.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/domain/uk/co/acuminous/books/Expense.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/domain/uk/co/acuminous/books/Invoice.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/domain/uk/co/acuminous/books/TaxYear.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/domain/uk/co/acuminous/books/VatRate.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/domain/uk/co/acuminous/books/VatReturn.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/services/uk/co/acuminous/books/BooksService.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/taglib/uk/co/acuminous/books/BooksUiTagLib.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/taglib/uk/co/acuminous/books/MetaAttachmentsTagLib.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/taglib/uk/co/acuminous/books/TaxYearPickerTagLib.groovy" />
+        <option value="$PROJECT_DIR$/src/groovy/uk/co/acuminous/books/jbehave/converter/CustomConvertersLoader.groovy" />
+        <option value="$PROJECT_DIR$/src/groovy/uk/co/acuminous/books/jbehave/converter/JodaConverter.groovy" />
+        <option value="$PROJECT_DIR$/src/groovy/uk/co/acuminous/books/jbehave/step/TestFixtures.groovy" />
+        <option value="$PROJECT_DIR$/src/groovy/uk/co/acuminous/books/utils/BooksUtils.groovy" />
+        <option value="$PROJECT_DIR$/src/groovy/uk/co/acuminous/test/EntityBuilder.groovy" />
+        <option value="$PROJECT_DIR$/src/groovy/uk/co/acuminous/test/MessageMatcher.groovy" />
+        <option value="$PROJECT_DIR$/src/groovy/uk/co/acuminous/test/TestUtils.groovy" />
+        <option value="$PROJECT_DIR$/src/groovy/uk/co/acuminous/util/Normalizer.groovy" />
+        <option value="$PROJECT_DIR$/web-app/js/application/application.js" />
+        <option value="$PROJECT_DIR$/web-app/js/application/jquery-crud-0.1.js" />
+        <option value="$PROJECT_DIR$/web-app/js/application/jquery-vat-0.1.js" />
+        <option value="$PROJECT_DIR$/web-app/js/naturalLanguageExtensions/mapping/concise-mappings.js" />
+        <option value="$PROJECT_DIR$/web-app/js/naturalLanguageExtensions/mapping/english-mappings.js" />
+        <option value="$PROJECT_DIR$/web-app/js/naturalLanguageExtensions/mapping/inline-mappings.js" />
+        <option value="$PROJECT_DIR$/web-app/js/naturalLanguageExtensions/mapping/locator-mappings.js" />
+        <option value="$PROJECT_DIR$/web-app/js/naturalLanguageExtensions/natural-language-extensions.js" />
       </list>
     </option>
   </component>
@@ -280,274 +280,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="grails-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Books" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Books" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grails-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="taglib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="books" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Books" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Books" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grails-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="services" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="books" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Books" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Books" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grails-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="domain" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="acuminous" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="books" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Books" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Books" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grails-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="domain" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="acuminous" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="attachment" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Books" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Books" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grails-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="acuminous" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FixtureController.groovy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Books" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Books" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grails-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="acuminous" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="books" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VatReturnController.groovy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Books" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Books" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grails-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="acuminous" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="books" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VatRateController.groovy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Books" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Books" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grails-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="acuminous" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="books" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TaxYearController.groovy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Books" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Books" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grails-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="acuminous" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="books" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Books" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Books" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grails-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="acuminous" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="attachment" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -830,6 +562,7 @@
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3183024" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1816976" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891247" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -845,7 +578,6 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.50530505" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1816976" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -899,135 +631,144 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/grails-app/controllers/uk/co/acuminous/books/InvoiceController.groovy">
+    <entry file="file://$PROJECT_DIR$/src/groovy/uk/co/acuminous/books/jbehave/converter/CustomConvertersLoader.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="3" selection-start="605" selection-end="605" vertical-scroll-proportion="-6.4615383">
-          <folding />
+        <state line="1" column="18" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1299794839000" expanded="true" signature="0:596" placeholder="/*...*/" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/controllers/uk/co/acuminous/books/TaxYearController.groovy">
+    <entry file="file://$PROJECT_DIR$/src/groovy/uk/co/acuminous/books/jbehave/converter/JodaConverter.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="6" selection-start="644" selection-end="644" vertical-scroll-proportion="-8.307693">
-          <folding />
+        <state line="1" column="18" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1299794839000" expanded="true" signature="0:596" placeholder="/*...*/" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/controllers/uk/co/acuminous/books/VatRateController.groovy">
+    <entry file="file://$PROJECT_DIR$/src/groovy/uk/co/acuminous/books/jbehave/step/TestFixtures.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="3" selection-start="605" selection-end="605" vertical-scroll-proportion="-6.4615383">
-          <folding />
+        <state line="1" column="18" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1299794839000" expanded="true" signature="0:596" placeholder="/*...*/" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/controllers/uk/co/acuminous/books/VatReturnController.groovy">
+    <entry file="file://$PROJECT_DIR$/src/groovy/uk/co/acuminous/books/utils/BooksUtils.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="3" selection-start="605" selection-end="605" vertical-scroll-proportion="-6.4615383">
-          <folding />
+        <state line="1" column="18" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1299794839000" expanded="true" signature="0:596" placeholder="/*...*/" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/controllers/uk/co/acuminous/test/FixtureController.groovy">
+    <entry file="file://$PROJECT_DIR$/src/groovy/uk/co/acuminous/test/EntityBuilder.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="3" selection-start="605" selection-end="605" vertical-scroll-proportion="-6.4615383">
-          <folding />
+        <state line="1" column="18" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1299794839000" expanded="true" signature="0:596" placeholder="/*...*/" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/uk/co/acuminous/attachment/MetaAttachment.groovy">
+    <entry file="file://$PROJECT_DIR$/src/groovy/uk/co/acuminous/test/MessageMatcher.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="3" selection-start="605" selection-end="605" vertical-scroll-proportion="-3.5">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/uk/co/acuminous/books/Amount.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="3" selection-start="605" selection-end="605" vertical-scroll-proportion="-3.5">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/uk/co/acuminous/books/Expense.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="3" selection-start="605" selection-end="605" vertical-scroll-proportion="-3.5">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/uk/co/acuminous/books/Invoice.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="3" selection-start="605" selection-end="605" vertical-scroll-proportion="-3.5">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/uk/co/acuminous/books/TaxYear.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="3" selection-start="605" selection-end="605" vertical-scroll-proportion="-3.5">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/uk/co/acuminous/books/VatRate.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="3" selection-start="605" selection-end="605" vertical-scroll-proportion="-3.5">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/uk/co/acuminous/books/VatReturn.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="3" selection-start="605" selection-end="605" vertical-scroll-proportion="-3.5">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/services/uk/co/acuminous/books/BooksService.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="3" selection-start="605" selection-end="605" vertical-scroll-proportion="0.0">
-          <folding />
+        <state line="1" column="18" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1299794839000" expanded="true" signature="0:596" placeholder="/*...*/" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/taglib/uk/co/acuminous/books/BooksUiTagLib.groovy">
+    <entry file="file://$PROJECT_DIR$/src/groovy/uk/co/acuminous/test/TestUtils.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="3" selection-start="605" selection-end="605" vertical-scroll-proportion="0.0">
-          <folding />
+        <state line="1" column="18" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1299794839000" expanded="true" signature="0:596" placeholder="/*...*/" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/taglib/uk/co/acuminous/books/MetaAttachmentsTagLib.groovy">
+    <entry file="file://$PROJECT_DIR$/src/groovy/uk/co/acuminous/util/Normalizer.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="3" selection-start="605" selection-end="605" vertical-scroll-proportion="0.0">
-          <folding />
+        <state line="1" column="18" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1299794839000" expanded="true" signature="0:596" placeholder="/*...*/" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/taglib/uk/co/acuminous/books/TaxYearPickerTagLib.groovy">
+    <entry file="file://$PROJECT_DIR$/web-app/js/application/application.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="3" selection-start="605" selection-end="605" vertical-scroll-proportion="0.36681223">
+        <state line="1" column="18" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1299794839000" expanded="true" signature="0:596" placeholder="/*...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-app/js/application/jquery-crud-0.1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="18" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1299794839000" expanded="true" signature="0:596" placeholder="/*...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-app/js/application/jquery-vat-0.1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="18" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1299794839000" expanded="true" signature="0:596" placeholder="/*...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-app/js/naturalLanguageExtensions/mapping/concise-mappings.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="18" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1299794839000" expanded="true" signature="0:596" placeholder="/*...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-app/js/naturalLanguageExtensions/mapping/english-mappings.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="18" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1299794839000" expanded="true" signature="0:596" placeholder="/*...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-app/js/naturalLanguageExtensions/mapping/inline-mappings.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="18" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1299794839000" expanded="true" signature="0:596" placeholder="/*...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-app/js/naturalLanguageExtensions/mapping/locator-mappings.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="18" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1299794839000" expanded="true" signature="0:596" placeholder="/*...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-app/js/naturalLanguageExtensions/natural-language-extensions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="18" selection-start="21" selection-end="21" vertical-scroll-proportion="0.028368793">
           <folding />
         </state>
       </provider>
